@@ -56,3 +56,7 @@ It demonstrates the **first phase of a compiler design**, providing insight into
 ### Step 1: Compile the Code
 ```bash
 gcc main.c
+
+<img width="374" height="257" alt="image" src="https://github.com/user-attachments/assets/d23c75ec-64e7-4f61-b6cf-a9cbbfdb6c89" />
+<img width="722" height="742" alt="image" src="https://github.com/user-attachments/assets/7366f9db-2d6a-419b-bd2d-72784d0971d7" />
+
