@@ -47,7 +47,13 @@ It demonstrates the **first phase of a compiler design**, providing insight into
   - `stdio.h`  
   - `ctype.h`  
   - `string.h`  
-  - `stdlib.h`  
+  - `stdlib.h`
+
+ ## 👨‍💻 Author
+
+**Siddhant Babanagar**
+🎓 Electronics & Telecommunication Engineer (2025)
+💡 Interested in Embedded Systems & Low-Level Programming
 
 ---
 
